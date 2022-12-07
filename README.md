@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MarkPagan
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Phyton and R.
+- 💞️ I’m looking to collaborate on Pds.
+- 📫 How to reach me markpaganifts@gmail.com
+- 66
